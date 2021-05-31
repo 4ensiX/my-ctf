@@ -1,3 +1,5 @@
+2020/07/06
+
 # ctf-management
 clpwn net ctfの運営情報
 
